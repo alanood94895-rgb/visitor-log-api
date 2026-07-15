@@ -76,7 +76,7 @@ public class VisitorController {
 
         Map<String, String> response = new HashMap<>();
         response.put("status", "UP");
-        response.put("developer", "Your Name");
+        response.put("developer", "Alanoud");
 
         return response;
     }
