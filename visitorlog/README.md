@@ -35,7 +35,7 @@ It allows users to manage visitors in memory by adding, viewing, and deleting vi
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/visitor-log-api.git
+git clone https://github.com/alanood94895-rgb/visitor-log-api.git
 ```
 
 Go to the project folder:
